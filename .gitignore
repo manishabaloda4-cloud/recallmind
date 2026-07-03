@@ -1,0 +1,6 @@
+.env
+backend/.env
+frontend/node_modules/
+__pycache__/
+*.pyc
+.cognee_system/

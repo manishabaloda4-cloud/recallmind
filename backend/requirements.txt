@@ -1,0 +1,8 @@
+cognee==1.2.2
+fastapi
+uvicorn
+python-dotenv
+sentence-transformers
+google-generativeai
+pydantic
+aiofiles
