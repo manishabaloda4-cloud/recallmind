@@ -150,7 +150,7 @@ http://localhost:3001/
 
 \## 👩‍💻 Built By
 
-\*\*Manisha Baloda\*\* — B.Tech AI/ML, LPU (CGPA: 9.67)
+\*\*Manisha Baloda\*\* — B.Tech AI/ML
 
 \- GitHub: \[@manishabaloda4-cloud](https://github.com/manishabaloda4-cloud)
 
